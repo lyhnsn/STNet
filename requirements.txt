@@ -7,7 +7,7 @@ future
 pandas
 shapely
 matplotlib
-pomegrante
+pomegranate
 ipykernel
 imageio
 pyquaternion
